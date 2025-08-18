@@ -4,7 +4,7 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
 </p>
 <h3 align="center">
-  Hi, I'm Jesus Rodriguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi, I'm Jesus Rodriguez <img src="https://imgur.com/a/vhLDAMO" width="28">
 </p>
 </h3>
 
