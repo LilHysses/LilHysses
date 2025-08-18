@@ -12,6 +12,34 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 <hr>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">About Me</h2></summary>
+  </ul>
+</div>
+
+<!--Intro start-->
+
+<p align="left">
+🎓 TECNOLOGO DE ANALISIS Y DESARROLLO DE SOFTWARE
+ 
+💻 Tecnólogo en Análisis y Desarrollo de Software en formación.
+
+🌱 Actualmente aprendiendo y trabajando con **Node.js, Express y MySQL**.  
+
+🔍 Me interesa el desarrollo ya sea **backend o frontend**, la creación de **APIs RESTful** y la optimización de **bases de datos**.  
+
+🎮 Apasionado por los **videojuegos**, también desarrollo proyectos en **GDevelop y Godot** (2D plataformas).  
+
+📚 Siempre buscando mejorar mis habilidades en **arquitectura de software** y **metodologías ágiles**.  
+
+📫 Contacto: **jesusrodriguezrocha10@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+<hr>
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
