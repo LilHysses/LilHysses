@@ -21,8 +21,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-     <h3>Languages</h3>
-     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,express,figma,github,html,java,js,mysql,nodejs,postman,vscode,kubernetes&perline=14" />
   </a>
 </p>
 <hr>
