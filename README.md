@@ -63,12 +63,15 @@
   </ul>
 </div>
 <br>
+<p align="center" width="300px">
   <a href="https://github.com/LilHysses/Learn-NodeJs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LilHysses&repo=Learn-NodeJs&theme=tokyonight" />
   </a>
   <a href="https://github.com/LilHysses/TodoList">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LilHysses&repo=TodoList&theme=tokyonight" />
   </a>
+</p>
+
 <br><br>
 <hr>
 
