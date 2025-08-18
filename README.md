@@ -22,8 +22,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 TECNOLOGO DE ANALISIS Y DESARROLLO DE SOFTWARE
- 
+ <br>
 💻 Tecnólogo en Análisis y Desarrollo de Software en formación.
 
 🌱 Actualmente aprendiendo y trabajando con **Node.js, Express y MySQL**.  
@@ -46,6 +45,7 @@
     <summary><img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"><h2 style="display: inline-block">Technologies That I Know</h2><img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"></summary>
   </ul>
 </div>
+<br>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
