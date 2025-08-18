@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 <!-- IMG PROFILE -->
 <p align="center">
- <img width="100px" src="https://i.imgur.com/6FkCWwD.png" align="center" alt="Github Readme Stats" style="border-radius: 50px" />
+ <img width="100px" src="https://i.imgur.com/6FkCWwD.png" align="center" alt="Github Readme Stats" style="border-radius: 50" />
 </p>
 <h3 align="center">
   Hi, I'm Jesus Rodriguez <img src="https://imgur.com/a/vhLDAMO" width="28">
