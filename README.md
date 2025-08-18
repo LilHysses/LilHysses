@@ -70,7 +70,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
 
 </a>
-<br>
+<br><br>
 <hr>
 
 <!-- Connect with me -->
