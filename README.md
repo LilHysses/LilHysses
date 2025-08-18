@@ -63,12 +63,8 @@
   </ul>
 </div>
 <br>
-<a href="https://github.com/LilHysses/Learn-NodeJs.git">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Learn-NodeJS&theme=tokyonight" />
-
+<a href="https://github.com/LilHysses/Learn-NodeJs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LilHysses&repo=Learn-NodeJs&theme=tokyonight" />
 </a>
 <br><br>
 <hr>
