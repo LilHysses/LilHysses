@@ -67,7 +67,7 @@
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hysses&repo=Learn-NodeJS&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app" />
 
 </a>
 <br><br>
