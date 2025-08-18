@@ -15,7 +15,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"><h2 style="display: inline-block">Technologies That I Know</h2><div class="tenor-gif-embed" data-postid="17626661937785697606" data-share-method="host" data-aspect-ratio="1.58599" data-width="100%"><a href="https://tenor.com/view/kurapika-gif-17626661937785697606">Kurapika GIF</a>from <a href="https://tenor.com/search/kurapika-gifs">Kurapika GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></summary>
+    <summary><img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"><h2 style="display: inline-block">Technologies That I Know</h2><img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"></summary>
   </ul>
 </div>
 <!--tech stack icons-->
