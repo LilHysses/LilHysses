@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 <!-- IMG PROFILE -->
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <img width="100px" src="https://imgur.com/a/vhLDAMO" align="center" alt="Github Readme Stats" />
 </p>
 <h3 align="center">
   Hi, I'm Jesus Rodriguez <img src="https://imgur.com/a/vhLDAMO" width="28">
