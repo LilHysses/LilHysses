@@ -52,6 +52,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,sqlite,postgres,express,sequelize,bootstrap,postman,github,git,vscode,discord,godot,linkedin&perline=14" />
   </a>
 </p>
+<br>
 <hr>
 
  <!-- PROJECTS -->
@@ -61,13 +62,15 @@
     <summary><h2 style="display: inline-block">My Projects</h2></summary>
   </ul>
 </div>
+<br>
 <a href="https://github.com/LilHysses/Learn-NodeJs.git">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
 
-</a>  
+</a>
+<br>
 <hr>
 
 <!-- Connect with me -->
@@ -77,6 +80,7 @@
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
+<br>
 
 <!--icons and links-->
 <p align="center">
@@ -85,9 +89,9 @@
 <a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+ 
 </p>
-
+<br>
 
 
 
