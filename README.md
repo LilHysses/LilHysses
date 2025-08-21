@@ -70,6 +70,9 @@
   <a href="https://github.com/LilHysses/TodoList">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LilHysses&repo=TodoList&theme=tokyonight" />
   </a>
+  <a href="https://github.com/LilHysses/LeaseHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LilHysses&repo=LeaseHub&theme=tokyonight" />
+  </a>
 </p>
 
 <br><br>
