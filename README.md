@@ -64,7 +64,7 @@
 </div>
 <br>
 <p align="center" width="300px">
-  <a href="https://github.com/LilHysses/Learn-NodeJs">
+  <a href="https://github.com/LilHysses/Posts_NodeJS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LilHysses&repo=Learn-NodeJs&theme=tokyonight" />
   </a>
   <a href="https://github.com/LilHysses/TodoList">
